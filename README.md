@@ -2,14 +2,29 @@
 
 A decentralized note-taking application built with Next.js, TypeScript, and Web3 technologies. This application allows users to create, store, and manage notes with file attachments using IPFS through the Apillon Storage API.
 
+![App Preview](./2.png)
+
 ## Features
 
 - Create and manage notes with rich text content
 - Upload file attachments (images and PDFs) to IPFS
 - Organize notes with tags and categories
 - Web3 authentication
-- Dark mode support
 - Responsive design
+
+## Screenshots
+![App Preview](./1.png)
+![App Preview](./2.png)
+![App Preview](./3.png)
+![App Preview](./4.png)
+![App Preview](./5.png)
+![App Preview](./6.png)
+![App Preview](./7.png)
+![App Preview](./8.png)
+
+## 🎥 Video 
+
+Watch the demo on [YouTube](https://youtu.be/42wtdDMPXLg).
 
 ## Prerequisites
 
